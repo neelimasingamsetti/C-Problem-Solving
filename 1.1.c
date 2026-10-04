@@ -9,3 +9,8 @@ scanf("%d", &n);
 printf("The number you entered is: %d\n",n);
 return 0;
 }
+
+/* OUTPUT*/
+
+Enter a number8
+The number you entered is: 8
