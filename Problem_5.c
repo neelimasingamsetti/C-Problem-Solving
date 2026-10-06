@@ -1,4 +1,4 @@
-/* Take a number $N$ as input from the user and print its 10th multiplication table.*\
+/* Take a number N as input from the user and print its 10th multiplication table.*\
 
   #include<stdio.h>
 int main()
